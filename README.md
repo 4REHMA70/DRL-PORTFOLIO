@@ -1,0 +1,1 @@
+This project utilizes Deep Reinforcement Learning models in stock trading for portfolio management. The end goal was to cross-evaluate state-of-the-art approaches with the NASDAQ-100 baseline performance.
